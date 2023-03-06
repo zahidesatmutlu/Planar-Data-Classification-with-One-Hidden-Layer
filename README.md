@@ -1,4 +1,4 @@
-# Planar-Data-Classification-with-One-Hidden-Layer
+# Planar Data Classification with One Hidden Layer
 Welcome to the second required programming assignment of Course 1 of the Deep Learning Specialization! It's time to build your first neural network, which will have one hidden layer. You'll notice a big difference between this model and the one you implemented previously using logistic regression.
 
 ![alt text](https://i.hizliresim.com/t9436bq.png)
